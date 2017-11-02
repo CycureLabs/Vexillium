@@ -1,6 +1,7 @@
 # Vexillium
 Vexillium - DOM based fuzzer for browser based on Google's Domato
-	Copyright Cycure Labs 2017. Licensed under Apache 2.0
+
+Copyright Cycure Labs 2017. Licensed under Apache 2.0
 
 # How-to Use
     To use this fuzzer, simply open the browser you want to fuzz and visit http://rajesh.sillycon.org:1337/
